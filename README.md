@@ -79,10 +79,6 @@ This project is implemented in a single Jupyter notebook. It does not expose a s
   Example model: `facebook/dino-vits16` via Hugging Face Transformers  
   Role: Self-supervised Vision Transformer for advanced image understanding
 
-   - **CLIP**  
-  Example model: `openai/clip-vit-base-patch32` via Hugging Face Transformers  
-  Role: Contrastive vision-language encoder used for aligning image and text semantics
-
 - **Text Encoder**
   - **BERT Base Uncased**  
   Model: `bert-base-uncased` from Hugging Face  
